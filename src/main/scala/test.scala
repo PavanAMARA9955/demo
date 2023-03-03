@@ -28,9 +28,9 @@ object test{
 
     Total.createOrReplaceTempView("Jointables")
 
-    test2.month_name()
-    test2.parking_across()
-    test2.total_parked_per_mon()
+//    test2.month_name()
+//    test2.parking_across()
+//    test2.total_parked_per_mon()
     test2.cumu_tot_eachRecord()
 
   }
